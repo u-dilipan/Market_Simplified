@@ -26,6 +26,6 @@ compileOptions {
 ```
 
 ### Screenshots.
-![Alt text](image1.jpg?raw=true "Add comments"){:height="50%" width="50%"}
+<img src="https://github.com/u-dilipan/Market_Simplified/blob/master/image1.jpg" width="50" height="50">
 ![Alt text](image2.jpg?raw=true "User Detail")
 ![Alt text](image3.jpg?raw=true "Fragments")
