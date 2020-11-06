@@ -26,6 +26,6 @@ compileOptions {
 ```
 
 ### Screenshots.
-![Alt text](image1.jpg?raw=true "Add comments" | width=100 | height=150)
+![Alt text](image1.jpg?raw=true "Add comments"){:height="50%" width="50%"}
 ![Alt text](image2.jpg?raw=true "User Detail")
 ![Alt text](image3.jpg?raw=true "Fragments")
